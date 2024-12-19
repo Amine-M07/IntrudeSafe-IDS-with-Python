@@ -21,5 +21,5 @@ This project implements a basic Intrusion Detection System (IDS) using Python. T
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Amine-M07/ids_project.git
-   cd ids_project
+   git clone https://github.com/Amine-M07/IntrudeSafe-IDS-with-Python.git
+   cd IntrudeSafe-IDS-with-Python
